@@ -4,3 +4,4 @@ Using BAM nets to encrypt and decrypt data on either side without transferring a
 
 
 ## PROPOSED SYSTEM ARCHITECTURE
+![as](https://user-images.githubusercontent.com/22303570/44801957-1c3f5b80-abd8-11e8-8737-48dcab664876.jpg)
